@@ -1,5 +1,5 @@
 :root {
-  --pink: #ff4d88;
+  --pink: #E4A6FF;
   --rose: #ff8fb1;
 }
 
@@ -80,7 +80,7 @@ p{
   line-height: 1.4;
   margin: 0;
   padding: 1rem;
-  color: #4b1830;
+  color: #FAC82F;
 }
 
 .envelope-lid {
